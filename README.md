@@ -1,16 +1,16 @@
-## Hi there 👋
+# 👋 Hey, I’m Ganesh P. Nair (⚡GPN⚡)
 
-<!--
-**GaneshPNair02-Dev/GaneshPNair02-Dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 Engineer & creator of **⚡ ODDTI™** — blending nostalgia with logic.  
+Passionate about **Python**, **embedded systems**, and **clean design**.
 
-Here are some ideas to get you started:
+💻 Projects:  
+- [ODDTI™ v2.3](https://github.com/GaneshPNair02-Dev/ODDTI-v2.3) – TI-84 Plus CE & PC Python Edition  
+- [ODDTI™ Web](https://ganeshpnair02-dev.github.io/ODDTI-Web/) – Play directly in your browser  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎵 Bonus: Original soundtrack — *GPN_ring1.mp3*  
+📧 Reach me: **ganeshpnair793@gmail.com**
+
+---
+
+> “Turning childhood memories into code.”  
+> — *⚡ GPN ⚡*
